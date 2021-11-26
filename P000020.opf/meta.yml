@@ -1,8 +1,12 @@
-ebook_metadata:
+id: P000020
+initial_creation_type: ebook
+created_at: 31/01/2020
+last_modified_at: 26/11/2021
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། མཁན་པོ་བློ་གྲོས་དོན་ཡོད།
-  sku: RDI-SS-18
+  id: RDI-SS-18
   layers:
   - book_title
   - author
